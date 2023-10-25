@@ -1,2 +1,2 @@
-# lasagnoli
-Lasagnoli website
+
+![Lasagnoli architecture](images/lasagnoli.png)
