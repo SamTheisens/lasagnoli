@@ -1,6 +1,6 @@
 ---
-title: AWE.SOME Heading
+title: How did we get here?
 type: about
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt. Vivamus vitae erat vel tellus condimentum consectetur.
+The pasta metaphor was for software engineering was first introduced in 1994(!) by [Raymond J. Ruby](https://www.gnu.org/fun/jokes/pasta.code.html)

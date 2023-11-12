@@ -21,13 +21,18 @@ module.exports = {
     colors: {
       transparent: 'transparent',
       current: 'currentColor',
-
       black: colors.black,
       white: colors.white,
-      gray: colors.coolGray,
+      gray: {
+        500: '#353d46',
+        700: '#434a52',
+      },
       red: colors.red,
       yellow: colors.amber,
-      green: colors.emerald,
+      green: {
+        500: '#7db616',
+        700: '#96d625'
+      },
       blue: colors.blue,
       indigo: colors.indigo,
       purple: colors.violet,

@@ -1,7 +1,8 @@
 ---
-title: Most AWE.SOME Features
-afterTitle: ...and so much more!
+title: The key ingredients
+afterTitle: ...to a tasty lasagnoli!
 type: features
 ---
 
-Pellentesque ullamcorper fringilla odio at pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla mattis erat dui, ut tempor lectus dictum id.
+A lasagnoli architecture combines the best of a layered services (lasagna)
+with the vertical domain oriented approach of microservices (ravioli).
