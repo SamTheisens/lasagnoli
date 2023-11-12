@@ -1,7 +1,7 @@
 ---
 title: The key ingredients
 afterTitle: ...to a tasty lasagnoli!
-type: features
+type: ingredients
 ---
 
 A lasagnoli architecture combines the best of a layered services (lasagna)

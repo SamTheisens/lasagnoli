@@ -1,6 +1,6 @@
 {% for item in collections.sections %}
-  {% if item.data.type === 'features' %}
-    <div id="features" class="w-full min-h-screen flex flex-col justify-center items-center bg-gray-500 py-12">
+  {% if item.data.type === 'ingredients' %}
+    <div id="ingredients" class="w-full min-h-screen flex flex-col justify-center items-center bg-gray-500 py-12">
       <div class="self-center text-center w-full sm:w-2/3 xl:w-1/2 px-4 sm:px:0">
         <h2 class="tracking-wide text-green-700 font-bold text-4xl mb-4">{{ item.data.title }}</h2>
         <div class="font-light text-gray-200 text-xl mb-6">
@@ -26,7 +26,7 @@
         <h3 class="font-bold tracking-widest text-green-700 text-2xl my-6">{{ item.data.afterTitle }}</h3>
       </div>
       <div class="flex flex-row w-full justify-center pt-6">
-        <a class="px-10 py-2 text-gray-200 bg-red-500 rounded-full shadow-md text-lg hover:bg-red-700 hover:border-red" href="#register">Register Now</a>
+        <a class="px-10 py-2 text-gray-200 bg-red-500 rounded-full shadow-md text-lg hover:bg-red-700 hover:border-red" href="#register">Contact Now</a>
       </div>
     </div>
   {% endif %}
